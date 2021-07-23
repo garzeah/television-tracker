@@ -1,1 +1,51 @@
-# Television Tracker
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">  
+  <h3 align="center">Movie Tracker</h3>
+  
+  <p align="center">
+    <a href="https://github.com/garzeah/movie-tracker">
+      <img src="client/public/favicon.ico" alt="Movie Tracker Logo">
+    </a>
+  </p>
+</p>
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+A web application that allows users to search for movies.
+
+### Built With
+
+- React
+- Redux
+- Node
+- Express
+- MongoDB
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/garzeah/movie-tracker.git
+   ```
+2. Install NPM packages in both root and client directory
+   ```sh
+   npm install
+   ```
+3. Create a .env file
+4. Start the server
+   ```sh
+   npm start
+   ```
+
+<!-- CONTACT -->
+
+## Contact
+
+Andy Garcia: acgarzeah@gmail.com
+
+Project Link: https://github.com/garzeah/movie-tracker
+
+Website: https://mv-tracker.herokuapp.com
