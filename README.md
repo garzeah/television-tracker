@@ -3,7 +3,7 @@
 <p align="center">  
   <p align="center">
     <a href="https://github.com/garzeah/movie-tracker">
-      <img src="client/public/favicon.ico" alt="Movie Tracker Logo">
+      <img style="height: 100px; width: 100px" src="client/public/favicon.ico" alt="Movie Tracker Logo">
     </a>
   </p>  
   
