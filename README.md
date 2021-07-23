@@ -1,18 +1,18 @@
 <!-- PROJECT LOGO -->
-<br />
+<!-- <br />
 <p align="center">  
-<!--   <p align="center">
+  <p align="center">
     <a href="https://github.com/garzeah/movie-tracker">
       <img src="client/public/favicon.ico" alt="Movie Tracker Logo">
     </a>
-  </p>   -->
+  </p>  
   
   <h3 align="center">Movie Tracker</h3>
-</p>
+</p> -->
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## Movie Tracker
 
 A web application that allows users to search for movies.
 
