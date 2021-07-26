@@ -42,6 +42,12 @@ A web application that allows users to search for movies.
 
 <!-- CONTACT -->
 
+## Sample Pictures
+<img width="1787" alt="Screen Shot 2021-07-25 at 9 11 29 PM" src="https://user-images.githubusercontent.com/29414787/126932172-f353ea56-ef71-47cd-980d-1771c9c3e3e8.png">
+
+
+<!-- CONTACT -->
+
 ## Contact
 
 Andy Garcia: acgarzeah@gmail.com
