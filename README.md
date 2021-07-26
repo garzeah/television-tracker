@@ -42,8 +42,13 @@ A web application that allows users to search for movies.
 
 <!-- CONTACT -->
 
-## Sample Pictures
+## Demo
+1. Home Page
 <img width="1787" alt="Screen Shot 2021-07-25 at 9 11 29 PM" src="https://user-images.githubusercontent.com/29414787/126932172-f353ea56-ef71-47cd-980d-1771c9c3e3e8.png">
+
+2. Movie Page
+<img width="1277" alt="Screen Shot 2021-07-25 at 9 20 16 PM" src="https://user-images.githubusercontent.com/29414787/126932663-77015604-349f-4d9f-b6e6-75189dab5e03.png">
+
 
 
 <!-- CONTACT -->
